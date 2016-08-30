@@ -1,0 +1,12 @@
+target/
+logs/
+.idea/
+.project
+.classpath
+.settings/
+bin/
+setenv.sh
+setenv.bat
+agilesites.local.properties
+agilesites.ver
+
