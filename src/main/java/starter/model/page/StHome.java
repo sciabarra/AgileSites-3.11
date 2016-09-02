@@ -12,6 +12,10 @@ public class StHome extends Page {
     @Attribute(description="Title")
     @Required
     private String StTitle;
+    
+    @Attribute(description="Subtitle")
+    private String StSubTitle;
+    
 
     @Attribute(description="Text", editor = "StRichTextEditor")
     private String StText;
